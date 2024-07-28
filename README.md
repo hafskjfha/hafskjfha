@@ -29,7 +29,7 @@ You can click the Preview link to take a look at your changes.
         <th>Status</th>
     </tr>
     <tr>
-        <td>korean word chain game</td>
+        <td>Rmxnpygame</td>
         <td>https://github.com/hafskjfha/Rmxnpygame</td>
         <td>In Progress</td>
     </tr>

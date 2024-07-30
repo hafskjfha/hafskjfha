@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @hafskjfha
-- 👀 I’m interested in table tennis, programming, chess and Tetris.
+- 👀 I’m interested in table tennis 🏓, programming 💻, chess ♟️, and Tetris 🎮.
 - 🌱 I’m currently learning python, c# and js
 - ⚡ Fun fact: ...
 

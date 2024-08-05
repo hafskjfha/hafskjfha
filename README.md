@@ -19,6 +19,8 @@ You can click the Preview link to take a look at your changes.
 
 </div>
 
+## PS
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jtw7913)](https://solved.ac/jtw7913/) 
 
 ## projects
 

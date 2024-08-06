@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @hafskjfha
 - 👀 I’m interested in table tennis 🏓, programming 💻, chess ♟️, and Tetris 🎮.
 - 🌱 I’m currently learning python, c# and js
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: "Although I don't really like CSS, I have to use it."
 
 <!---
 hafskjfha/hafskjfha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

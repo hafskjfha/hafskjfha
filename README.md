@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hafskjfha
 - 👀 I’m interested in table tennis 🏓, programming 💻, chess ♟️, and Tetris 🎮.
-- 🌱 I’m currently learning python, c# and js
+- 🌱 I’m currently learning **python**, c# and **js**(node.js)
 - ⚡ Fun fact: "Although I don't really like CSS, I have to use it."
 
 <!---
@@ -39,5 +39,10 @@ You can click the Preview link to take a look at your changes.
          <td>Kkuko-word-combiner</td>
          <td>https://github.com/hafskjfha/Kkuko-word-combiner</td>
          <td>In Progress</td>
+    </tr>
+    <tr>
+        <td>douda</td>
+        <td>https://github.com/HolymolyAstatine/Douda</td>
+        <td>In Progress</td>
     </tr>
 </table>

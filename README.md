@@ -18,7 +18,7 @@ I'm passionate about **table tennis 🏓**, **programming 💻**, **chess ♟️
 </div>
 
 ## 🛠️ Tech Stack
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hafskjfha&layout=compact)
 <div align="center">
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Badge" />
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Badge" />

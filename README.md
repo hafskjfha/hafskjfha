@@ -31,6 +31,7 @@ I'm passionate about **table tennis 🏓**, **programming 💻**, **chess ♟️
 <img src="https://img.shields.io/badge/Firebase-DD2C00?style=for-the-badge&logo=Firebase&logoColor=white" alt="Firebase Badge" />
 <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" alt="Express.js Badge" />
 <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="Csharp Badge"/>
+<img src="https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white" alt="Rust Badge">
 </div>
 
 ## 🎓 Learning Journey

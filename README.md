@@ -19,7 +19,6 @@ I'm passionate about **table tennis 🏓**, **programming 💻**, **chess ♟️
 
 ## 🛠️ Tech Stack
 ![Top Langs](https://github-readme-stats-ten-weld-94.vercel.app/api/top-langs/?username=hafskjfha&layout=compact&exclude_repo=github-readme-stats&langs_count=8)
-![Wakatime](https://github-readme-stats-ten-weld-94.vercel.app/api/wakatime?username=hafskjfha)
 <div align="center">
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Badge" />
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Badge" />

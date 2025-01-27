@@ -46,7 +46,7 @@ I'm passionate about **table tennis 🏓**, **programming 💻**, **chess ♟️
 | Project Name       | Code Repository                                                | Status       |
 |--------------------|----------------------------------------------------------------|--------------|
 | **Rmxn_game**      | [Rmxn_game](https://github.com/hafskjfha/Rmxn_game)          | In Progress  |
-| **Kkuko-word-combiner** | [Kkuko-word-combiner](https://github.com/hafskjfha/Kkuko-word-combiner) | In Progress  |
+| **Kkuko-word-combiner** | [Kkuko-word-combiner](https://github.com/hafskjfha/Kkuko-word-combiner) | Completed  |
 | **Douda**           | [Douda](https://github.com/HolymolyAstatine/Douda)            | Completed  |
 | **Kkuko-utils**    | [kkuko-utils](https://github.com/hafskjfha/kkuko-utils)        | In Progress |
 

@@ -49,4 +49,5 @@ I'm passionate about **table tennis 🏓**, **programming 💻**, **chess ♟️
 | **Kkuko-word-combiner** | [Kkuko-word-combiner](https://github.com/hafskjfha/Kkuko-word-combiner) | Completed  |
 | **Douda**           | [Douda](https://github.com/HolymolyAstatine/Douda)            | Completed  |
 | **Kkuko-utils**    | [kkuko-utils](https://github.com/hafskjfha/kkuko-utils)        | In Progress |
+| **kkuko-utils-extension** | [kkuko-extension-download](https://github.com/hafskjfha/kkuko-extension-download) | In Progress |
 

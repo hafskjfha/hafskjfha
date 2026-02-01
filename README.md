@@ -1,4 +1,6 @@
 # 👋 Hi, I'm @hafskjfha (name:Jung Taewon)
+[portfolio stie](https://portfolio-jtw7913.vercel.app/)
+---
 
 I'm passionate about **table tennis 🏓**, **programming 💻**, **chess ♟️**, and **Tetris 🎮**.
 
@@ -9,7 +11,7 @@ I'm passionate about **table tennis 🏓**, **programming 💻**, **chess ♟️
 
 
   
-![GitHub Status](https://github-readme-stats-ten-weld-94.vercel.app//api?username=hafskjfha&show_icons=true&theme=white)
+ <!-- ![GitHub Status](https://github-readme-stats-ten-weld-94.vercel.app//api?username=hafskjfha&show_icons=true&theme=white)-->
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=hafskjfha&bg_color=ffffff&color=3366ff&line=3366ff&point=3366ff&area=true&hide_border=true)
 </div>

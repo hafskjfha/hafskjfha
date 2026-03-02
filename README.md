@@ -1,5 +1,5 @@
-# 👋 Hi, I'm @hafskjfha (name:Jung Taewon)
-[portfolio stie](https://portfolio-jtw7913.vercel.app/)
+# 👋 Hi, I'm @hafskjfha (name: Jung Taewon)
+| >> [portfolio stie](https://portfolio-jtw7913.vercel.app/) <<
 ---
 
 I'm passionate about **table tennis 🏓**, **programming 💻**, **chess ♟️**, and **Tetris 🎮**.

@@ -41,7 +41,7 @@ I'm passionate about **table tennis 🏓**, **programming 💻**, **chess ♟️
 
 ## 🎓 Learning Journey
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jtw7913)](https://solved.ac/jtw7913/)
+[![Solved.ac Card](https://solvedac-readme-stats.vercel.app/api?handle=jtw7913&v=1)](https://solved.ac/jtw7913/)
 
 ## 🚀 Projects
 

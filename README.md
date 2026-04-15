@@ -40,7 +40,7 @@ I'm passionate about **table tennis 🏓**, **programming 💻**, **chess ♟️
 ![Supabase Badge](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
 ## 🎓 Learning Journey
-
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jtw7913)](https://solved.ac/jtw7913/)<br>
 [![Solved.ac Card](https://solvedac-readme-stats.vercel.app/api?handle=jtw7913&v=1)](https://solved.ac/jtw7913/)
 
 ## 🚀 Projects
